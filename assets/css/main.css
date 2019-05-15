@@ -2585,6 +2585,8 @@ input, select, textarea {
 			.mini-posts article .image img {
 				display: block;
 				width: 40%;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 		.mini-posts article:first-child {
